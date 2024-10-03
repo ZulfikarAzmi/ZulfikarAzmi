@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d..." alt="Header Image" />
-</p>
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zulfikarally) 
 
