@@ -1,4 +1,4 @@
-![Header GIF](https://i.pinimg.com/originals/c7/2d/14/c72d14aeeb05acf7eefc46c3035b471d.gif)
+![Header GIF](https://i.pinimg.com/564x/12/69/09/126909683047fb6c09da0acf2c90aadd.jpg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zulfikarally) 
