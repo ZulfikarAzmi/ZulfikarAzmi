@@ -1,5 +1,5 @@
 # 💫 Hello World! i'm Zulfikar
-I am a high school student who is highly interested in and eager to delve deeper into backend programming and data management.
+I’m a vocational high school graduate majoring in Software Engineering (RPL), currently seeking opportunities to collaborate and grow as a developer.
 
 
 ## 🌐 Find me on:
