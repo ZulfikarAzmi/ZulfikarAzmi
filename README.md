@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Zulfikar
 
-**Informatics Undergraduate | Passionate about Modern Web Development (Laravel & React)**
-
 I specialize in building web applications with Laravel, React, and modern frontend stacks, turning ideas into clean, functional products.
 Open to internship, freelance, and collaboration opportunities in web development.
 
